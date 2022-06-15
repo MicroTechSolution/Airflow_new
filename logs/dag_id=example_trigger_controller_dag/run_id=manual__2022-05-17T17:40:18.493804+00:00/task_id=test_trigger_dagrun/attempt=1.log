@@ -1,0 +1,22 @@
+[2022-05-19 19:10:39,171] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: example_trigger_controller_dag.test_trigger_dagrun manual__2022-05-17T17:40:18.493804+00:00 [queued]>
+[2022-05-19 19:10:39,182] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: example_trigger_controller_dag.test_trigger_dagrun manual__2022-05-17T17:40:18.493804+00:00 [queued]>
+[2022-05-19 19:10:39,183] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-05-19 19:10:39,183] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2022-05-19 19:10:39,183] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-05-19 19:10:39,222] {taskinstance.py:1377} INFO - Executing <Task(TriggerDagRunOperator): test_trigger_dagrun> on 2022-05-17 17:40:18.493804+00:00
+[2022-05-19 19:10:39,225] {standard_task_runner.py:52} INFO - Started process 7931 to run task
+[2022-05-19 19:10:39,228] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'example_trigger_controller_dag', 'test_trigger_dagrun', 'manual__2022-05-17T17:40:18.493804+00:00', '--job-id', '86', '--raw', '--subdir', '/usr/local/lib/python3.10/dist-packages/airflow/example_dags/example_trigger_controller_dag.py', '--cfg-path', '/tmp/tmptzt2j400', '--error-file', '/tmp/tmpfb8sdzia']
+[2022-05-19 19:10:39,229] {standard_task_runner.py:80} INFO - Job 86: Subtask test_trigger_dagrun
+[2022-05-19 19:10:39,289] {task_command.py:369} INFO - Running <TaskInstance: example_trigger_controller_dag.test_trigger_dagrun manual__2022-05-17T17:40:18.493804+00:00 [running]> on host roshan-Latitude-E5440
+[2022-05-19 19:10:39,358] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=example_trigger_controller_dag
+AIRFLOW_CTX_TASK_ID=test_trigger_dagrun
+AIRFLOW_CTX_EXECUTION_DATE=2022-05-17T17:40:18.493804+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-05-17T17:40:18.493804+00:00
+[2022-05-19 19:10:39,437] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=example_trigger_controller_dag, task_id=test_trigger_dagrun, execution_date=20220517T174018, start_date=20220519T134039, end_date=20220519T134039
+[2022-05-19 19:10:39,480] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-05-19 19:10:39,495] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

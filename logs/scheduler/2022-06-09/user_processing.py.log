@@ -1,0 +1,805 @@
+[2022-06-09 18:47:52,936] {processor.py:153} INFO - Started process (PID=30965) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:47:52,936] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 18:47:52,937] {logging_mixin.py:115} INFO - [2022-06-09 18:47:52,937] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:47:52,983] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:47:53,005] {logging_mixin.py:115} INFO - [2022-06-09 18:47:53,005] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 18:47:53,026] {logging_mixin.py:115} INFO - [2022-06-09 18:47:53,025] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 18:47:53,045] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.111 seconds
+[2022-06-09 18:48:28,716] {processor.py:153} INFO - Started process (PID=31074) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:48:28,717] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 18:48:28,717] {logging_mixin.py:115} INFO - [2022-06-09 18:48:28,717] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:48:28,727] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:48:28,747] {logging_mixin.py:115} INFO - [2022-06-09 18:48:28,747] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 18:48:28,766] {logging_mixin.py:115} INFO - [2022-06-09 18:48:28,766] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 18:48:28,786] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.073 seconds
+[2022-06-09 18:49:08,961] {processor.py:153} INFO - Started process (PID=31149) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:49:08,962] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 18:49:08,962] {logging_mixin.py:115} INFO - [2022-06-09 18:49:08,962] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:49:08,971] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:49:08,991] {logging_mixin.py:115} INFO - [2022-06-09 18:49:08,991] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 18:49:09,009] {logging_mixin.py:115} INFO - [2022-06-09 18:49:09,009] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 18:49:09,026] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.067 seconds
+[2022-06-09 18:49:45,118] {processor.py:153} INFO - Started process (PID=31192) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:49:45,118] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 18:49:45,119] {logging_mixin.py:115} INFO - [2022-06-09 18:49:45,119] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:49:45,132] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:49:45,152] {logging_mixin.py:115} INFO - [2022-06-09 18:49:45,152] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 18:49:45,172] {logging_mixin.py:115} INFO - [2022-06-09 18:49:45,172] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 18:49:45,214] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.100 seconds
+[2022-06-09 18:50:21,332] {processor.py:153} INFO - Started process (PID=31240) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:50:21,333] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 18:50:21,334] {logging_mixin.py:115} INFO - [2022-06-09 18:50:21,333] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:50:21,348] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:50:21,372] {logging_mixin.py:115} INFO - [2022-06-09 18:50:21,372] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 18:50:21,400] {logging_mixin.py:115} INFO - [2022-06-09 18:50:21,400] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 18:50:21,418] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.089 seconds
+[2022-06-09 18:50:57,496] {processor.py:153} INFO - Started process (PID=31281) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:50:57,496] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 18:50:57,497] {logging_mixin.py:115} INFO - [2022-06-09 18:50:57,497] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:50:57,505] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:50:57,530] {logging_mixin.py:115} INFO - [2022-06-09 18:50:57,530] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 18:50:57,549] {logging_mixin.py:115} INFO - [2022-06-09 18:50:57,549] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 18:50:57,570] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.076 seconds
+[2022-06-09 18:51:35,805] {processor.py:153} INFO - Started process (PID=31333) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:51:35,806] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 18:51:35,806] {logging_mixin.py:115} INFO - [2022-06-09 18:51:35,806] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:51:35,824] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:51:35,859] {logging_mixin.py:115} INFO - [2022-06-09 18:51:35,859] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 18:51:35,899] {logging_mixin.py:115} INFO - [2022-06-09 18:51:35,898] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 18:51:35,924] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.122 seconds
+[2022-06-09 18:52:09,082] {processor.py:153} INFO - Started process (PID=31381) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:52:09,083] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 18:52:09,083] {logging_mixin.py:115} INFO - [2022-06-09 18:52:09,083] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:52:09,093] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:52:09,142] {logging_mixin.py:115} INFO - [2022-06-09 18:52:09,141] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 18:52:09,159] {logging_mixin.py:115} INFO - [2022-06-09 18:52:09,159] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 18:52:09,177] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.099 seconds
+[2022-06-09 18:52:43,763] {processor.py:153} INFO - Started process (PID=31425) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:52:43,764] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 18:52:43,764] {logging_mixin.py:115} INFO - [2022-06-09 18:52:43,764] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:52:43,774] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:52:43,794] {logging_mixin.py:115} INFO - [2022-06-09 18:52:43,794] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 18:52:43,812] {logging_mixin.py:115} INFO - [2022-06-09 18:52:43,812] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 18:52:43,828] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.068 seconds
+[2022-06-09 18:53:15,758] {processor.py:153} INFO - Started process (PID=31480) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:53:15,759] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 18:53:15,759] {logging_mixin.py:115} INFO - [2022-06-09 18:53:15,759] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:53:15,768] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:53:15,788] {logging_mixin.py:115} INFO - [2022-06-09 18:53:15,788] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 18:53:15,805] {logging_mixin.py:115} INFO - [2022-06-09 18:53:15,805] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 18:53:15,822] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.066 seconds
+[2022-06-09 18:53:52,157] {processor.py:153} INFO - Started process (PID=31520) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:53:52,158] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 18:53:52,158] {logging_mixin.py:115} INFO - [2022-06-09 18:53:52,158] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:53:52,167] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:53:52,187] {logging_mixin.py:115} INFO - [2022-06-09 18:53:52,186] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 18:53:52,204] {logging_mixin.py:115} INFO - [2022-06-09 18:53:52,204] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 18:53:52,220] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.065 seconds
+[2022-06-09 18:54:30,864] {processor.py:153} INFO - Started process (PID=31565) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:54:30,865] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 18:54:30,865] {logging_mixin.py:115} INFO - [2022-06-09 18:54:30,865] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:54:30,875] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:54:30,895] {logging_mixin.py:115} INFO - [2022-06-09 18:54:30,895] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 18:54:30,912] {logging_mixin.py:115} INFO - [2022-06-09 18:54:30,912] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 18:54:30,930] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.068 seconds
+[2022-06-09 18:55:05,450] {processor.py:153} INFO - Started process (PID=31607) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:55:05,451] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 18:55:05,451] {logging_mixin.py:115} INFO - [2022-06-09 18:55:05,451] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:55:05,460] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:55:05,479] {logging_mixin.py:115} INFO - [2022-06-09 18:55:05,479] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 18:55:05,497] {logging_mixin.py:115} INFO - [2022-06-09 18:55:05,497] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 18:55:05,513] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.065 seconds
+[2022-06-09 18:55:43,994] {processor.py:153} INFO - Started process (PID=31652) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:55:43,995] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 18:55:43,995] {logging_mixin.py:115} INFO - [2022-06-09 18:55:43,995] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:55:44,004] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:55:44,024] {logging_mixin.py:115} INFO - [2022-06-09 18:55:44,024] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 18:55:44,041] {logging_mixin.py:115} INFO - [2022-06-09 18:55:44,041] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 18:55:44,060] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.069 seconds
+[2022-06-09 18:56:19,306] {processor.py:153} INFO - Started process (PID=31699) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:56:19,307] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 18:56:19,307] {logging_mixin.py:115} INFO - [2022-06-09 18:56:19,307] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:56:19,316] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:56:19,336] {logging_mixin.py:115} INFO - [2022-06-09 18:56:19,336] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 18:56:19,355] {logging_mixin.py:115} INFO - [2022-06-09 18:56:19,355] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 18:56:19,373] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.069 seconds
+[2022-06-09 18:56:51,431] {processor.py:153} INFO - Started process (PID=31735) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:56:51,431] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 18:56:51,431] {logging_mixin.py:115} INFO - [2022-06-09 18:56:51,431] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:56:51,440] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:56:51,460] {logging_mixin.py:115} INFO - [2022-06-09 18:56:51,460] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 18:56:51,478] {logging_mixin.py:115} INFO - [2022-06-09 18:56:51,478] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 18:56:51,495] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.067 seconds
+[2022-06-09 18:57:25,887] {processor.py:153} INFO - Started process (PID=31778) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:57:25,888] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 18:57:25,888] {logging_mixin.py:115} INFO - [2022-06-09 18:57:25,888] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:57:25,899] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:57:25,920] {logging_mixin.py:115} INFO - [2022-06-09 18:57:25,919] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 18:57:25,937] {logging_mixin.py:115} INFO - [2022-06-09 18:57:25,937] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 18:57:25,953] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.069 seconds
+[2022-06-09 18:57:59,675] {processor.py:153} INFO - Started process (PID=31819) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:57:59,675] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 18:57:59,676] {logging_mixin.py:115} INFO - [2022-06-09 18:57:59,676] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:57:59,687] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:57:59,711] {logging_mixin.py:115} INFO - [2022-06-09 18:57:59,711] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 18:57:59,729] {logging_mixin.py:115} INFO - [2022-06-09 18:57:59,729] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 18:57:59,749] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.076 seconds
+[2022-06-09 18:58:31,771] {processor.py:153} INFO - Started process (PID=31863) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:58:31,772] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 18:58:31,775] {logging_mixin.py:115} INFO - [2022-06-09 18:58:31,774] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:58:31,791] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:58:31,831] {logging_mixin.py:115} INFO - [2022-06-09 18:58:31,831] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 18:58:31,873] {logging_mixin.py:115} INFO - [2022-06-09 18:58:31,873] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 18:58:31,909] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.141 seconds
+[2022-06-09 18:59:06,882] {processor.py:153} INFO - Started process (PID=31911) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:59:06,883] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 18:59:06,883] {logging_mixin.py:115} INFO - [2022-06-09 18:59:06,883] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:59:06,896] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:59:06,924] {logging_mixin.py:115} INFO - [2022-06-09 18:59:06,924] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 18:59:06,954] {logging_mixin.py:115} INFO - [2022-06-09 18:59:06,954] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 18:59:06,996] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.118 seconds
+[2022-06-09 18:59:39,375] {processor.py:153} INFO - Started process (PID=31949) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:59:39,376] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 18:59:39,376] {logging_mixin.py:115} INFO - [2022-06-09 18:59:39,376] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:59:39,387] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 18:59:39,409] {logging_mixin.py:115} INFO - [2022-06-09 18:59:39,409] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 18:59:39,429] {logging_mixin.py:115} INFO - [2022-06-09 18:59:39,429] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 18:59:39,446] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.073 seconds
+[2022-06-09 19:00:18,864] {processor.py:153} INFO - Started process (PID=32000) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:00:18,864] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:00:18,865] {logging_mixin.py:115} INFO - [2022-06-09 19:00:18,865] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:00:18,875] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:00:18,894] {logging_mixin.py:115} INFO - [2022-06-09 19:00:18,894] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:00:18,912] {logging_mixin.py:115} INFO - [2022-06-09 19:00:18,911] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:00:18,928] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.067 seconds
+[2022-06-09 19:00:55,511] {processor.py:153} INFO - Started process (PID=32044) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:00:55,512] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:00:55,513] {logging_mixin.py:115} INFO - [2022-06-09 19:00:55,513] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:00:55,529] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:00:55,561] {logging_mixin.py:115} INFO - [2022-06-09 19:00:55,561] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:00:55,596] {logging_mixin.py:115} INFO - [2022-06-09 19:00:55,595] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:00:55,618] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.110 seconds
+[2022-06-09 19:01:29,905] {processor.py:153} INFO - Started process (PID=32082) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:01:29,906] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:01:29,906] {logging_mixin.py:115} INFO - [2022-06-09 19:01:29,906] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:01:29,916] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:01:29,939] {logging_mixin.py:115} INFO - [2022-06-09 19:01:29,939] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:01:29,957] {logging_mixin.py:115} INFO - [2022-06-09 19:01:29,956] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:01:29,973] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.070 seconds
+[2022-06-09 19:02:01,782] {processor.py:153} INFO - Started process (PID=32125) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:02:01,783] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:02:01,783] {logging_mixin.py:115} INFO - [2022-06-09 19:02:01,783] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:02:01,792] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:02:01,813] {logging_mixin.py:115} INFO - [2022-06-09 19:02:01,812] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:02:01,830] {logging_mixin.py:115} INFO - [2022-06-09 19:02:01,830] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:02:01,847] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.067 seconds
+[2022-06-09 19:02:35,018] {processor.py:153} INFO - Started process (PID=32165) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:02:35,019] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:02:35,020] {logging_mixin.py:115} INFO - [2022-06-09 19:02:35,020] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:02:35,029] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:02:35,049] {logging_mixin.py:115} INFO - [2022-06-09 19:02:35,048] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:02:35,066] {logging_mixin.py:115} INFO - [2022-06-09 19:02:35,066] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:02:35,084] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.067 seconds
+[2022-06-09 19:03:08,298] {processor.py:153} INFO - Started process (PID=32204) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:03:08,299] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:03:08,299] {logging_mixin.py:115} INFO - [2022-06-09 19:03:08,299] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:03:08,308] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:03:08,328] {logging_mixin.py:115} INFO - [2022-06-09 19:03:08,328] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:03:08,346] {logging_mixin.py:115} INFO - [2022-06-09 19:03:08,346] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:03:08,363] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.067 seconds
+[2022-06-09 19:03:47,197] {processor.py:153} INFO - Started process (PID=32261) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:03:47,198] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:03:47,199] {logging_mixin.py:115} INFO - [2022-06-09 19:03:47,199] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:03:47,212] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:03:47,232] {logging_mixin.py:115} INFO - [2022-06-09 19:03:47,232] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:03:47,253] {logging_mixin.py:115} INFO - [2022-06-09 19:03:47,253] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:03:47,270] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.077 seconds
+[2022-06-09 19:04:20,687] {processor.py:153} INFO - Started process (PID=32301) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:04:20,687] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:04:20,688] {logging_mixin.py:115} INFO - [2022-06-09 19:04:20,688] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:04:20,702] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:04:20,733] {logging_mixin.py:115} INFO - [2022-06-09 19:04:20,733] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:04:20,759] {logging_mixin.py:115} INFO - [2022-06-09 19:04:20,758] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:04:20,785] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.102 seconds
+[2022-06-09 19:04:52,745] {processor.py:153} INFO - Started process (PID=32340) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:04:52,746] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:04:52,746] {logging_mixin.py:115} INFO - [2022-06-09 19:04:52,746] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:04:52,756] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:04:52,778] {logging_mixin.py:115} INFO - [2022-06-09 19:04:52,778] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:04:52,796] {logging_mixin.py:115} INFO - [2022-06-09 19:04:52,795] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:04:52,814] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.071 seconds
+[2022-06-09 19:05:25,697] {processor.py:153} INFO - Started process (PID=32379) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:05:25,697] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:05:25,698] {logging_mixin.py:115} INFO - [2022-06-09 19:05:25,698] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:05:25,710] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:05:25,730] {logging_mixin.py:115} INFO - [2022-06-09 19:05:25,730] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:05:25,748] {logging_mixin.py:115} INFO - [2022-06-09 19:05:25,747] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:05:25,765] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.071 seconds
+[2022-06-09 19:06:03,980] {processor.py:153} INFO - Started process (PID=32428) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:06:03,981] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:06:03,981] {logging_mixin.py:115} INFO - [2022-06-09 19:06:03,981] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:06:03,994] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:06:04,018] {logging_mixin.py:115} INFO - [2022-06-09 19:06:04,018] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:06:04,040] {logging_mixin.py:115} INFO - [2022-06-09 19:06:04,040] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:06:04,062] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.086 seconds
+[2022-06-09 19:06:36,612] {processor.py:153} INFO - Started process (PID=32468) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:06:36,612] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:06:36,613] {logging_mixin.py:115} INFO - [2022-06-09 19:06:36,613] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:06:36,622] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:06:36,643] {logging_mixin.py:115} INFO - [2022-06-09 19:06:36,643] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:06:36,661] {logging_mixin.py:115} INFO - [2022-06-09 19:06:36,661] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:06:36,679] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.070 seconds
+[2022-06-09 19:07:14,037] {processor.py:153} INFO - Started process (PID=32530) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:07:14,038] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:07:14,038] {logging_mixin.py:115} INFO - [2022-06-09 19:07:14,038] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:07:14,048] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:07:14,077] {logging_mixin.py:115} INFO - [2022-06-09 19:07:14,077] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:07:14,099] {logging_mixin.py:115} INFO - [2022-06-09 19:07:14,099] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:07:14,117] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.084 seconds
+[2022-06-09 19:07:48,990] {processor.py:153} INFO - Started process (PID=32592) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:07:48,991] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:07:48,992] {logging_mixin.py:115} INFO - [2022-06-09 19:07:48,991] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:07:49,001] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:07:49,021] {logging_mixin.py:115} INFO - [2022-06-09 19:07:49,021] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:07:49,044] {logging_mixin.py:115} INFO - [2022-06-09 19:07:49,044] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:07:49,066] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.078 seconds
+[2022-06-09 19:08:21,150] {processor.py:153} INFO - Started process (PID=32640) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:08:21,151] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:08:21,151] {logging_mixin.py:115} INFO - [2022-06-09 19:08:21,151] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:08:21,160] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:08:21,180] {logging_mixin.py:115} INFO - [2022-06-09 19:08:21,180] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:08:21,198] {logging_mixin.py:115} INFO - [2022-06-09 19:08:21,198] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:08:21,215] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.068 seconds
+[2022-06-09 19:08:55,424] {processor.py:153} INFO - Started process (PID=32681) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:08:55,425] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:08:55,425] {logging_mixin.py:115} INFO - [2022-06-09 19:08:55,425] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:08:55,434] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:08:55,454] {logging_mixin.py:115} INFO - [2022-06-09 19:08:55,454] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:08:55,472] {logging_mixin.py:115} INFO - [2022-06-09 19:08:55,471] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:08:55,488] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.067 seconds
+[2022-06-09 19:09:26,952] {processor.py:153} INFO - Started process (PID=32742) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:09:26,952] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:09:26,953] {logging_mixin.py:115} INFO - [2022-06-09 19:09:26,952] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:09:26,962] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:09:26,982] {logging_mixin.py:115} INFO - [2022-06-09 19:09:26,982] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:09:26,999] {logging_mixin.py:115} INFO - [2022-06-09 19:09:26,999] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:09:27,016] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.066 seconds
+[2022-06-09 19:09:59,297] {processor.py:153} INFO - Started process (PID=32779) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:09:59,298] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:09:59,298] {logging_mixin.py:115} INFO - [2022-06-09 19:09:59,298] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:09:59,310] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:09:59,331] {logging_mixin.py:115} INFO - [2022-06-09 19:09:59,330] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:09:59,349] {logging_mixin.py:115} INFO - [2022-06-09 19:09:59,348] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:09:59,365] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.071 seconds
+[2022-06-09 19:10:37,437] {processor.py:153} INFO - Started process (PID=32827) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:10:37,438] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:10:37,438] {logging_mixin.py:115} INFO - [2022-06-09 19:10:37,438] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:10:37,448] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:10:37,468] {logging_mixin.py:115} INFO - [2022-06-09 19:10:37,467] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:10:37,485] {logging_mixin.py:115} INFO - [2022-06-09 19:10:37,485] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:10:37,502] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.067 seconds
+[2022-06-09 19:11:10,101] {processor.py:153} INFO - Started process (PID=32864) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:11:10,102] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:11:10,102] {logging_mixin.py:115} INFO - [2022-06-09 19:11:10,102] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:11:10,111] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:11:10,132] {logging_mixin.py:115} INFO - [2022-06-09 19:11:10,132] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:11:10,149] {logging_mixin.py:115} INFO - [2022-06-09 19:11:10,149] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:11:10,166] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.069 seconds
+[2022-06-09 19:11:49,458] {processor.py:153} INFO - Started process (PID=32917) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:11:49,458] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:11:49,459] {logging_mixin.py:115} INFO - [2022-06-09 19:11:49,459] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:11:49,469] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:11:49,490] {logging_mixin.py:115} INFO - [2022-06-09 19:11:49,490] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:11:49,513] {logging_mixin.py:115} INFO - [2022-06-09 19:11:49,512] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:11:49,559] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.104 seconds
+[2022-06-09 19:12:27,306] {processor.py:153} INFO - Started process (PID=32966) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:12:27,306] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:12:27,307] {logging_mixin.py:115} INFO - [2022-06-09 19:12:27,307] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:12:27,316] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:12:27,335] {logging_mixin.py:115} INFO - [2022-06-09 19:12:27,335] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:12:27,353] {logging_mixin.py:115} INFO - [2022-06-09 19:12:27,352] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:12:27,369] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.066 seconds
+[2022-06-09 19:13:00,331] {processor.py:153} INFO - Started process (PID=33004) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:13:00,331] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:13:00,332] {logging_mixin.py:115} INFO - [2022-06-09 19:13:00,331] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:13:00,341] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:13:00,361] {logging_mixin.py:115} INFO - [2022-06-09 19:13:00,361] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:13:00,379] {logging_mixin.py:115} INFO - [2022-06-09 19:13:00,379] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:13:00,396] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.068 seconds
+[2022-06-09 19:13:36,573] {processor.py:153} INFO - Started process (PID=33056) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:13:36,574] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:13:36,574] {logging_mixin.py:115} INFO - [2022-06-09 19:13:36,574] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:13:36,584] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:13:36,603] {logging_mixin.py:115} INFO - [2022-06-09 19:13:36,603] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:13:36,620] {logging_mixin.py:115} INFO - [2022-06-09 19:13:36,620] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:13:36,638] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.067 seconds
+[2022-06-09 19:14:10,129] {processor.py:153} INFO - Started process (PID=33098) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:14:10,131] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:14:10,132] {logging_mixin.py:115} INFO - [2022-06-09 19:14:10,132] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:14:10,146] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:14:10,308] {logging_mixin.py:115} INFO - [2022-06-09 19:14:10,308] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:14:10,340] {logging_mixin.py:115} INFO - [2022-06-09 19:14:10,339] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:14:10,360] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.234 seconds
+[2022-06-09 19:14:48,367] {processor.py:153} INFO - Started process (PID=33252) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:14:48,367] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:14:48,368] {logging_mixin.py:115} INFO - [2022-06-09 19:14:48,368] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:14:48,378] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:14:48,397] {logging_mixin.py:115} INFO - [2022-06-09 19:14:48,397] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:14:48,416] {logging_mixin.py:115} INFO - [2022-06-09 19:14:48,416] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:14:48,437] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.073 seconds
+[2022-06-09 19:15:24,550] {processor.py:153} INFO - Started process (PID=33305) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:15:24,550] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:15:24,551] {logging_mixin.py:115} INFO - [2022-06-09 19:15:24,551] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:15:24,560] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:15:24,580] {logging_mixin.py:115} INFO - [2022-06-09 19:15:24,580] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:15:24,598] {logging_mixin.py:115} INFO - [2022-06-09 19:15:24,598] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:15:24,615] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.067 seconds
+[2022-06-09 19:15:57,734] {processor.py:153} INFO - Started process (PID=33352) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:15:57,734] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:15:57,735] {logging_mixin.py:115} INFO - [2022-06-09 19:15:57,735] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:15:57,744] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:15:57,764] {logging_mixin.py:115} INFO - [2022-06-09 19:15:57,764] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:15:57,782] {logging_mixin.py:115} INFO - [2022-06-09 19:15:57,782] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:15:57,802] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.071 seconds
+[2022-06-09 19:16:29,251] {processor.py:153} INFO - Started process (PID=33397) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:16:29,251] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:16:29,252] {logging_mixin.py:115} INFO - [2022-06-09 19:16:29,252] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:16:29,261] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:16:29,281] {logging_mixin.py:115} INFO - [2022-06-09 19:16:29,281] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:16:29,298] {logging_mixin.py:115} INFO - [2022-06-09 19:16:29,298] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:16:29,317] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.069 seconds
+[2022-06-09 19:17:05,300] {processor.py:153} INFO - Started process (PID=33463) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:17:05,301] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:17:05,301] {logging_mixin.py:115} INFO - [2022-06-09 19:17:05,301] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:17:05,312] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:17:05,336] {logging_mixin.py:115} INFO - [2022-06-09 19:17:05,336] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:17:05,353] {logging_mixin.py:115} INFO - [2022-06-09 19:17:05,353] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:17:05,370] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.072 seconds
+[2022-06-09 19:17:41,381] {processor.py:153} INFO - Started process (PID=33514) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:17:41,382] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:17:41,382] {logging_mixin.py:115} INFO - [2022-06-09 19:17:41,382] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:17:41,392] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:17:41,411] {logging_mixin.py:115} INFO - [2022-06-09 19:17:41,411] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:17:41,429] {logging_mixin.py:115} INFO - [2022-06-09 19:17:41,429] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:17:41,446] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.068 seconds
+[2022-06-09 19:18:12,525] {processor.py:153} INFO - Started process (PID=33602) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:18:12,526] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:18:12,527] {logging_mixin.py:115} INFO - [2022-06-09 19:18:12,526] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:18:12,536] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:18:12,556] {logging_mixin.py:115} INFO - [2022-06-09 19:18:12,556] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:18:12,573] {logging_mixin.py:115} INFO - [2022-06-09 19:18:12,573] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:18:12,591] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.069 seconds
+[2022-06-09 19:18:45,920] {processor.py:153} INFO - Started process (PID=33685) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:18:45,920] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:18:45,921] {logging_mixin.py:115} INFO - [2022-06-09 19:18:45,921] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:18:45,930] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:18:45,950] {logging_mixin.py:115} INFO - [2022-06-09 19:18:45,950] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:18:45,967] {logging_mixin.py:115} INFO - [2022-06-09 19:18:45,967] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:18:45,987] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.069 seconds
+[2022-06-09 19:19:18,836] {processor.py:153} INFO - Started process (PID=33771) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:19:18,836] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:19:18,837] {logging_mixin.py:115} INFO - [2022-06-09 19:19:18,837] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:19:18,846] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:19:18,866] {logging_mixin.py:115} INFO - [2022-06-09 19:19:18,866] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:19:18,884] {logging_mixin.py:115} INFO - [2022-06-09 19:19:18,884] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:19:18,905] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.071 seconds
+[2022-06-09 19:19:50,458] {processor.py:153} INFO - Started process (PID=33810) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:19:50,458] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:19:50,459] {logging_mixin.py:115} INFO - [2022-06-09 19:19:50,459] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:19:50,469] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:19:50,488] {logging_mixin.py:115} INFO - [2022-06-09 19:19:50,488] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:19:50,506] {logging_mixin.py:115} INFO - [2022-06-09 19:19:50,505] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:19:50,522] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.067 seconds
+[2022-06-09 19:20:24,829] {processor.py:153} INFO - Started process (PID=33851) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:20:24,830] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:20:24,830] {logging_mixin.py:115} INFO - [2022-06-09 19:20:24,830] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:20:24,840] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:20:24,859] {logging_mixin.py:115} INFO - [2022-06-09 19:20:24,859] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:20:24,876] {logging_mixin.py:115} INFO - [2022-06-09 19:20:24,876] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:20:24,894] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.067 seconds
+[2022-06-09 19:20:56,651] {processor.py:153} INFO - Started process (PID=33886) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:20:56,652] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:20:56,652] {logging_mixin.py:115} INFO - [2022-06-09 19:20:56,652] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:20:56,661] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:20:56,681] {logging_mixin.py:115} INFO - [2022-06-09 19:20:56,681] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:20:56,698] {logging_mixin.py:115} INFO - [2022-06-09 19:20:56,698] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:20:56,716] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.067 seconds
+[2022-06-09 19:21:34,638] {processor.py:153} INFO - Started process (PID=33952) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:21:34,639] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:21:34,640] {logging_mixin.py:115} INFO - [2022-06-09 19:21:34,639] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:21:34,653] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:21:34,679] {logging_mixin.py:115} INFO - [2022-06-09 19:21:34,679] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:21:34,743] {logging_mixin.py:115} INFO - [2022-06-09 19:21:34,743] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:21:34,794] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.159 seconds
+[2022-06-09 19:22:11,967] {processor.py:153} INFO - Started process (PID=34053) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:22:11,968] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:22:11,968] {logging_mixin.py:115} INFO - [2022-06-09 19:22:11,968] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:22:11,977] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:22:11,997] {logging_mixin.py:115} INFO - [2022-06-09 19:22:11,997] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:22:12,020] {logging_mixin.py:115} INFO - [2022-06-09 19:22:12,020] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:22:12,038] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.073 seconds
+[2022-06-09 19:22:45,693] {processor.py:153} INFO - Started process (PID=34092) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:22:45,693] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:22:45,694] {logging_mixin.py:115} INFO - [2022-06-09 19:22:45,693] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:22:45,704] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:22:45,723] {logging_mixin.py:115} INFO - [2022-06-09 19:22:45,723] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:22:45,741] {logging_mixin.py:115} INFO - [2022-06-09 19:22:45,741] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:22:45,759] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.069 seconds
+[2022-06-09 19:23:17,847] {processor.py:153} INFO - Started process (PID=34228) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:23:17,847] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:23:17,848] {logging_mixin.py:115} INFO - [2022-06-09 19:23:17,848] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:23:17,861] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:23:17,891] {logging_mixin.py:115} INFO - [2022-06-09 19:23:17,890] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:23:17,912] {logging_mixin.py:115} INFO - [2022-06-09 19:23:17,912] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:23:17,931] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.087 seconds
+[2022-06-09 19:23:52,844] {processor.py:153} INFO - Started process (PID=34289) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:23:52,845] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:23:52,845] {logging_mixin.py:115} INFO - [2022-06-09 19:23:52,845] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:23:52,856] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:23:52,881] {logging_mixin.py:115} INFO - [2022-06-09 19:23:52,881] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:23:52,904] {logging_mixin.py:115} INFO - [2022-06-09 19:23:52,904] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:23:52,929] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.088 seconds
+[2022-06-09 19:24:25,996] {processor.py:153} INFO - Started process (PID=34326) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:24:25,996] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:24:25,997] {logging_mixin.py:115} INFO - [2022-06-09 19:24:25,997] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:24:26,010] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:24:26,035] {logging_mixin.py:115} INFO - [2022-06-09 19:24:26,035] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:24:26,056] {logging_mixin.py:115} INFO - [2022-06-09 19:24:26,056] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:24:26,080] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.087 seconds
+[2022-06-09 19:25:04,713] {processor.py:153} INFO - Started process (PID=34418) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:25:04,714] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:25:04,715] {logging_mixin.py:115} INFO - [2022-06-09 19:25:04,715] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:25:04,724] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:25:04,744] {logging_mixin.py:115} INFO - [2022-06-09 19:25:04,744] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:25:04,762] {logging_mixin.py:115} INFO - [2022-06-09 19:25:04,762] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:25:04,779] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.069 seconds
+[2022-06-09 19:25:41,147] {processor.py:153} INFO - Started process (PID=34464) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:25:41,148] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:25:41,148] {logging_mixin.py:115} INFO - [2022-06-09 19:25:41,148] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:25:41,159] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:25:41,179] {logging_mixin.py:115} INFO - [2022-06-09 19:25:41,179] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:25:41,198] {logging_mixin.py:115} INFO - [2022-06-09 19:25:41,198] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:25:41,217] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.072 seconds
+[2022-06-09 19:26:17,389] {processor.py:153} INFO - Started process (PID=34511) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:26:17,389] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:26:17,390] {logging_mixin.py:115} INFO - [2022-06-09 19:26:17,389] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:26:17,399] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:26:17,419] {logging_mixin.py:115} INFO - [2022-06-09 19:26:17,419] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:26:17,437] {logging_mixin.py:115} INFO - [2022-06-09 19:26:17,437] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:26:17,455] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.068 seconds
+[2022-06-09 19:26:51,643] {processor.py:153} INFO - Started process (PID=34554) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:26:51,643] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:26:51,644] {logging_mixin.py:115} INFO - [2022-06-09 19:26:51,644] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:26:51,654] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:26:51,673] {logging_mixin.py:115} INFO - [2022-06-09 19:26:51,673] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:26:51,691] {logging_mixin.py:115} INFO - [2022-06-09 19:26:51,691] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:26:51,711] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.070 seconds
+[2022-06-09 19:27:24,476] {processor.py:153} INFO - Started process (PID=34594) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:27:24,477] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:27:24,478] {logging_mixin.py:115} INFO - [2022-06-09 19:27:24,477] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:27:24,491] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:27:24,514] {logging_mixin.py:115} INFO - [2022-06-09 19:27:24,514] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:27:24,532] {logging_mixin.py:115} INFO - [2022-06-09 19:27:24,532] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:27:24,549] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.075 seconds
+[2022-06-09 19:27:55,447] {processor.py:153} INFO - Started process (PID=34636) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:27:55,448] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:27:55,448] {logging_mixin.py:115} INFO - [2022-06-09 19:27:55,448] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:27:55,457] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:27:55,477] {logging_mixin.py:115} INFO - [2022-06-09 19:27:55,477] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:27:55,496] {logging_mixin.py:115} INFO - [2022-06-09 19:27:55,496] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:27:55,513] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.068 seconds
+[2022-06-09 19:28:27,821] {processor.py:153} INFO - Started process (PID=34701) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:28:27,821] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:28:27,822] {logging_mixin.py:115} INFO - [2022-06-09 19:28:27,822] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:28:27,831] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:28:27,852] {logging_mixin.py:115} INFO - [2022-06-09 19:28:27,852] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:28:27,870] {logging_mixin.py:115} INFO - [2022-06-09 19:28:27,869] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:28:27,908] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.091 seconds
+[2022-06-09 19:29:07,043] {processor.py:153} INFO - Started process (PID=34758) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:29:07,044] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:29:07,045] {logging_mixin.py:115} INFO - [2022-06-09 19:29:07,045] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:29:07,056] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:29:07,087] {logging_mixin.py:115} INFO - [2022-06-09 19:29:07,087] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:29:07,111] {logging_mixin.py:115} INFO - [2022-06-09 19:29:07,111] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:29:07,134] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.094 seconds
+[2022-06-09 19:29:44,117] {processor.py:153} INFO - Started process (PID=34806) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:29:44,117] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:29:44,118] {logging_mixin.py:115} INFO - [2022-06-09 19:29:44,118] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:29:44,126] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:29:44,147] {logging_mixin.py:115} INFO - [2022-06-09 19:29:44,147] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:29:44,165] {logging_mixin.py:115} INFO - [2022-06-09 19:29:44,165] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:29:44,183] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.069 seconds
+[2022-06-09 19:30:16,338] {processor.py:153} INFO - Started process (PID=34892) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:30:16,338] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:30:16,339] {logging_mixin.py:115} INFO - [2022-06-09 19:30:16,339] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:30:16,349] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:30:16,370] {logging_mixin.py:115} INFO - [2022-06-09 19:30:16,370] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:30:16,387] {logging_mixin.py:115} INFO - [2022-06-09 19:30:16,387] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:30:16,426] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.091 seconds
+[2022-06-09 19:30:54,926] {processor.py:153} INFO - Started process (PID=34937) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:30:54,926] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:30:54,927] {logging_mixin.py:115} INFO - [2022-06-09 19:30:54,927] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:30:54,936] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:30:54,957] {logging_mixin.py:115} INFO - [2022-06-09 19:30:54,957] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:30:54,975] {logging_mixin.py:115} INFO - [2022-06-09 19:30:54,975] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:30:54,992] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.069 seconds
+[2022-06-09 19:31:30,944] {processor.py:153} INFO - Started process (PID=34988) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:31:30,945] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:31:30,946] {logging_mixin.py:115} INFO - [2022-06-09 19:31:30,945] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:31:30,960] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:31:30,991] {logging_mixin.py:115} INFO - [2022-06-09 19:31:30,991] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:31:31,015] {logging_mixin.py:115} INFO - [2022-06-09 19:31:31,015] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:31:31,036] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.096 seconds
+[2022-06-09 19:32:04,547] {processor.py:153} INFO - Started process (PID=35027) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:32:04,548] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:32:04,548] {logging_mixin.py:115} INFO - [2022-06-09 19:32:04,548] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:32:04,557] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:32:04,578] {logging_mixin.py:115} INFO - [2022-06-09 19:32:04,578] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:32:04,596] {logging_mixin.py:115} INFO - [2022-06-09 19:32:04,596] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:32:04,614] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.070 seconds
+[2022-06-09 19:32:39,679] {processor.py:153} INFO - Started process (PID=35243) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:32:39,681] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:32:39,682] {logging_mixin.py:115} INFO - [2022-06-09 19:32:39,681] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:32:39,691] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:32:39,711] {logging_mixin.py:115} INFO - [2022-06-09 19:32:39,711] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:32:39,730] {logging_mixin.py:115} INFO - [2022-06-09 19:32:39,730] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:32:39,746] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.069 seconds
+[2022-06-09 19:33:17,872] {processor.py:153} INFO - Started process (PID=35320) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:33:17,873] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:33:17,874] {logging_mixin.py:115} INFO - [2022-06-09 19:33:17,874] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:33:17,885] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:33:17,907] {logging_mixin.py:115} INFO - [2022-06-09 19:33:17,906] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:33:17,925] {logging_mixin.py:115} INFO - [2022-06-09 19:33:17,925] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:33:17,944] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.075 seconds
+[2022-06-09 19:33:49,402] {processor.py:153} INFO - Started process (PID=35373) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:33:49,403] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:33:49,403] {logging_mixin.py:115} INFO - [2022-06-09 19:33:49,403] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:33:49,412] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:33:49,432] {logging_mixin.py:115} INFO - [2022-06-09 19:33:49,432] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:33:49,450] {logging_mixin.py:115} INFO - [2022-06-09 19:33:49,449] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:33:49,467] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.068 seconds
+[2022-06-09 19:34:22,788] {processor.py:153} INFO - Started process (PID=35448) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:34:22,788] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:34:22,789] {logging_mixin.py:115} INFO - [2022-06-09 19:34:22,789] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:34:22,798] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:34:22,818] {logging_mixin.py:115} INFO - [2022-06-09 19:34:22,818] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:34:22,835] {logging_mixin.py:115} INFO - [2022-06-09 19:34:22,835] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:34:22,853] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.068 seconds
+[2022-06-09 19:34:57,988] {processor.py:153} INFO - Started process (PID=35550) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:34:57,989] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:34:57,989] {logging_mixin.py:115} INFO - [2022-06-09 19:34:57,989] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:34:57,999] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:34:58,022] {logging_mixin.py:115} INFO - [2022-06-09 19:34:58,022] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:34:58,041] {logging_mixin.py:115} INFO - [2022-06-09 19:34:58,041] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:34:58,060] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.074 seconds
+[2022-06-09 19:35:28,395] {processor.py:153} INFO - Started process (PID=35587) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:35:28,395] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:35:28,396] {logging_mixin.py:115} INFO - [2022-06-09 19:35:28,395] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:35:28,405] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:35:28,425] {logging_mixin.py:115} INFO - [2022-06-09 19:35:28,425] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:35:28,450] {logging_mixin.py:115} INFO - [2022-06-09 19:35:28,450] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:35:28,479] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.086 seconds
+[2022-06-09 19:36:03,207] {processor.py:153} INFO - Started process (PID=35636) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:36:03,208] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:36:03,208] {logging_mixin.py:115} INFO - [2022-06-09 19:36:03,208] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:36:03,221] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:36:03,244] {logging_mixin.py:115} INFO - [2022-06-09 19:36:03,244] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:36:03,268] {logging_mixin.py:115} INFO - [2022-06-09 19:36:03,267] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:36:03,289] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.084 seconds
+[2022-06-09 19:36:41,670] {processor.py:153} INFO - Started process (PID=35683) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:36:41,670] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:36:41,671] {logging_mixin.py:115} INFO - [2022-06-09 19:36:41,671] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:36:41,681] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:36:41,704] {logging_mixin.py:115} INFO - [2022-06-09 19:36:41,704] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:36:41,723] {logging_mixin.py:115} INFO - [2022-06-09 19:36:41,723] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:36:41,741] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.074 seconds
+[2022-06-09 19:37:18,369] {processor.py:153} INFO - Started process (PID=35728) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:37:18,370] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:37:18,371] {logging_mixin.py:115} INFO - [2022-06-09 19:37:18,371] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:37:18,381] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:37:18,401] {logging_mixin.py:115} INFO - [2022-06-09 19:37:18,401] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:37:18,421] {logging_mixin.py:115} INFO - [2022-06-09 19:37:18,420] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:37:18,438] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.072 seconds
+[2022-06-09 19:37:52,638] {processor.py:153} INFO - Started process (PID=35842) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:37:52,639] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:37:52,639] {logging_mixin.py:115} INFO - [2022-06-09 19:37:52,639] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:37:52,651] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:37:52,672] {logging_mixin.py:115} INFO - [2022-06-09 19:37:52,672] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:37:52,689] {logging_mixin.py:115} INFO - [2022-06-09 19:37:52,689] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:37:52,707] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.072 seconds
+[2022-06-09 19:38:30,203] {processor.py:153} INFO - Started process (PID=35912) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:38:30,203] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:38:30,204] {logging_mixin.py:115} INFO - [2022-06-09 19:38:30,204] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:38:30,214] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:38:30,234] {logging_mixin.py:115} INFO - [2022-06-09 19:38:30,234] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:38:30,253] {logging_mixin.py:115} INFO - [2022-06-09 19:38:30,253] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:38:30,270] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.070 seconds
+[2022-06-09 19:39:03,666] {processor.py:153} INFO - Started process (PID=35972) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:39:03,667] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:39:03,667] {logging_mixin.py:115} INFO - [2022-06-09 19:39:03,667] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:39:03,677] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:39:03,696] {logging_mixin.py:115} INFO - [2022-06-09 19:39:03,696] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:39:03,714] {logging_mixin.py:115} INFO - [2022-06-09 19:39:03,714] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:39:03,731] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.067 seconds
+[2022-06-09 19:39:35,684] {processor.py:153} INFO - Started process (PID=36048) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:39:35,686] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:39:35,686] {logging_mixin.py:115} INFO - [2022-06-09 19:39:35,686] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:39:35,697] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:39:35,719] {logging_mixin.py:115} INFO - [2022-06-09 19:39:35,719] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:39:35,739] {logging_mixin.py:115} INFO - [2022-06-09 19:39:35,739] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:39:35,757] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.076 seconds
+[2022-06-09 19:40:10,864] {processor.py:153} INFO - Started process (PID=36118) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:40:10,865] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:40:10,866] {logging_mixin.py:115} INFO - [2022-06-09 19:40:10,866] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:40:10,880] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:40:10,909] {logging_mixin.py:115} INFO - [2022-06-09 19:40:10,909] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:40:10,934] {logging_mixin.py:115} INFO - [2022-06-09 19:40:10,933] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:40:10,954] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.094 seconds
+[2022-06-09 19:40:48,909] {processor.py:153} INFO - Started process (PID=36162) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:40:48,910] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:40:48,910] {logging_mixin.py:115} INFO - [2022-06-09 19:40:48,910] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:40:48,921] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:40:48,943] {logging_mixin.py:115} INFO - [2022-06-09 19:40:48,943] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:40:48,967] {logging_mixin.py:115} INFO - [2022-06-09 19:40:48,967] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:40:48,988] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.081 seconds
+[2022-06-09 19:41:23,847] {processor.py:153} INFO - Started process (PID=36208) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:41:23,848] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:41:23,848] {logging_mixin.py:115} INFO - [2022-06-09 19:41:23,848] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:41:23,858] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:41:23,879] {logging_mixin.py:115} INFO - [2022-06-09 19:41:23,879] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:41:23,898] {logging_mixin.py:115} INFO - [2022-06-09 19:41:23,898] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:41:23,915] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.070 seconds
+[2022-06-09 19:42:02,094] {processor.py:153} INFO - Started process (PID=36266) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:42:02,095] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:42:02,095] {logging_mixin.py:115} INFO - [2022-06-09 19:42:02,095] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:42:02,112] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:42:02,143] {logging_mixin.py:115} INFO - [2022-06-09 19:42:02,143] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:42:02,177] {logging_mixin.py:115} INFO - [2022-06-09 19:42:02,176] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:42:02,202] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.111 seconds
+[2022-06-09 19:42:41,056] {processor.py:153} INFO - Started process (PID=36308) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:42:41,057] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:42:41,057] {logging_mixin.py:115} INFO - [2022-06-09 19:42:41,057] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:42:41,067] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:42:41,088] {logging_mixin.py:115} INFO - [2022-06-09 19:42:41,087] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:42:41,111] {logging_mixin.py:115} INFO - [2022-06-09 19:42:41,110] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:42:41,130] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.077 seconds
+[2022-06-09 19:43:16,998] {processor.py:153} INFO - Started process (PID=36356) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:43:16,999] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:43:17,000] {logging_mixin.py:115} INFO - [2022-06-09 19:43:17,000] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:43:17,010] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:43:17,031] {logging_mixin.py:115} INFO - [2022-06-09 19:43:17,031] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:43:17,050] {logging_mixin.py:115} INFO - [2022-06-09 19:43:17,050] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:43:17,067] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.071 seconds
+[2022-06-09 19:43:50,547] {processor.py:153} INFO - Started process (PID=36468) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:43:50,564] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:43:50,565] {logging_mixin.py:115} INFO - [2022-06-09 19:43:50,565] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:43:50,576] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:43:50,600] {logging_mixin.py:115} INFO - [2022-06-09 19:43:50,599] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:43:50,621] {logging_mixin.py:115} INFO - [2022-06-09 19:43:50,621] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:43:50,653] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.109 seconds
+[2022-06-09 19:44:24,479] {processor.py:153} INFO - Started process (PID=36532) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:44:24,480] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:44:24,481] {logging_mixin.py:115} INFO - [2022-06-09 19:44:24,481] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:44:24,491] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:44:24,512] {logging_mixin.py:115} INFO - [2022-06-09 19:44:24,512] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:44:24,532] {logging_mixin.py:115} INFO - [2022-06-09 19:44:24,532] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:44:24,550] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.073 seconds
+[2022-06-09 19:44:56,543] {processor.py:153} INFO - Started process (PID=36618) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:44:56,543] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:44:56,544] {logging_mixin.py:115} INFO - [2022-06-09 19:44:56,544] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:44:56,554] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:44:56,576] {logging_mixin.py:115} INFO - [2022-06-09 19:44:56,576] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:44:56,596] {logging_mixin.py:115} INFO - [2022-06-09 19:44:56,596] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:44:56,635] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.095 seconds
+[2022-06-09 19:45:32,464] {processor.py:153} INFO - Started process (PID=36706) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:45:32,465] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:45:32,466] {logging_mixin.py:115} INFO - [2022-06-09 19:45:32,466] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:45:32,479] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:45:32,511] {logging_mixin.py:115} INFO - [2022-06-09 19:45:32,511] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:45:32,541] {logging_mixin.py:115} INFO - [2022-06-09 19:45:32,541] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:45:32,563] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.102 seconds
+[2022-06-09 19:46:11,647] {processor.py:153} INFO - Started process (PID=36781) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:46:11,647] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:46:11,648] {logging_mixin.py:115} INFO - [2022-06-09 19:46:11,648] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:46:11,660] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:46:11,680] {logging_mixin.py:115} INFO - [2022-06-09 19:46:11,680] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:46:11,697] {logging_mixin.py:115} INFO - [2022-06-09 19:46:11,697] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:46:11,714] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.070 seconds
+[2022-06-09 19:46:49,993] {processor.py:153} INFO - Started process (PID=36831) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:46:49,994] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:46:49,995] {logging_mixin.py:115} INFO - [2022-06-09 19:46:49,995] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:46:50,007] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:46:50,028] {logging_mixin.py:115} INFO - [2022-06-09 19:46:50,028] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:46:50,045] {logging_mixin.py:115} INFO - [2022-06-09 19:46:50,044] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:46:50,061] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.071 seconds
+[2022-06-09 19:47:23,982] {processor.py:153} INFO - Started process (PID=36944) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:47:23,983] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:47:23,984] {logging_mixin.py:115} INFO - [2022-06-09 19:47:23,984] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:47:23,994] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:47:24,016] {logging_mixin.py:115} INFO - [2022-06-09 19:47:24,016] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:47:24,037] {logging_mixin.py:115} INFO - [2022-06-09 19:47:24,036] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:47:24,054] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.074 seconds
+[2022-06-09 19:48:03,082] {processor.py:153} INFO - Started process (PID=37032) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:48:03,083] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:48:03,084] {logging_mixin.py:115} INFO - [2022-06-09 19:48:03,084] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:48:03,100] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:48:03,129] {logging_mixin.py:115} INFO - [2022-06-09 19:48:03,129] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:48:03,156] {logging_mixin.py:115} INFO - [2022-06-09 19:48:03,156] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:48:03,181] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.103 seconds
+[2022-06-09 19:48:40,299] {processor.py:153} INFO - Started process (PID=37109) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:48:40,300] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:48:40,300] {logging_mixin.py:115} INFO - [2022-06-09 19:48:40,300] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:48:40,310] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:48:40,333] {logging_mixin.py:115} INFO - [2022-06-09 19:48:40,333] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:48:40,355] {logging_mixin.py:115} INFO - [2022-06-09 19:48:40,354] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:48:40,373] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.077 seconds
+[2022-06-09 19:49:13,579] {processor.py:153} INFO - Started process (PID=37199) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:49:13,579] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:49:13,580] {logging_mixin.py:115} INFO - [2022-06-09 19:49:13,580] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:49:13,590] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:49:13,616] {logging_mixin.py:115} INFO - [2022-06-09 19:49:13,616] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:49:13,639] {logging_mixin.py:115} INFO - [2022-06-09 19:49:13,639] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:49:13,661] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.086 seconds
+[2022-06-09 19:49:50,785] {processor.py:153} INFO - Started process (PID=37342) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:49:50,786] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:49:50,786] {logging_mixin.py:115} INFO - [2022-06-09 19:49:50,786] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:49:50,797] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:49:50,821] {logging_mixin.py:115} INFO - [2022-06-09 19:49:50,821] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:49:50,843] {logging_mixin.py:115} INFO - [2022-06-09 19:49:50,843] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:49:50,863] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.081 seconds
+[2022-06-09 19:50:21,930] {processor.py:153} INFO - Started process (PID=37428) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:50:21,931] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:50:21,932] {logging_mixin.py:115} INFO - [2022-06-09 19:50:21,931] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:50:21,942] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:50:21,966] {logging_mixin.py:115} INFO - [2022-06-09 19:50:21,966] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:50:21,990] {logging_mixin.py:115} INFO - [2022-06-09 19:50:21,990] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:50:22,009] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.082 seconds
+[2022-06-09 19:50:55,906] {processor.py:153} INFO - Started process (PID=37632) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:50:55,907] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:50:55,908] {logging_mixin.py:115} INFO - [2022-06-09 19:50:55,908] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:50:55,920] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:50:55,945] {logging_mixin.py:115} INFO - [2022-06-09 19:50:55,945] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:50:55,969] {logging_mixin.py:115} INFO - [2022-06-09 19:50:55,969] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:50:55,989] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.085 seconds
+[2022-06-09 19:51:30,844] {processor.py:153} INFO - Started process (PID=37726) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:51:30,846] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:51:30,846] {logging_mixin.py:115} INFO - [2022-06-09 19:51:30,846] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:51:30,857] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:51:30,883] {logging_mixin.py:115} INFO - [2022-06-09 19:51:30,883] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:51:30,904] {logging_mixin.py:115} INFO - [2022-06-09 19:51:30,904] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:51:30,924] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.084 seconds
+[2022-06-09 19:52:01,922] {processor.py:153} INFO - Started process (PID=37832) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:52:01,922] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:52:01,923] {logging_mixin.py:115} INFO - [2022-06-09 19:52:01,923] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:52:01,936] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:52:01,964] {logging_mixin.py:115} INFO - [2022-06-09 19:52:01,964] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:52:01,988] {logging_mixin.py:115} INFO - [2022-06-09 19:52:01,987] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:52:02,008] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.089 seconds
+[2022-06-09 19:52:38,201] {processor.py:153} INFO - Started process (PID=37924) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:52:38,202] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:52:38,203] {logging_mixin.py:115} INFO - [2022-06-09 19:52:38,202] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:52:38,213] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:52:38,235] {logging_mixin.py:115} INFO - [2022-06-09 19:52:38,235] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:52:38,257] {logging_mixin.py:115} INFO - [2022-06-09 19:52:38,257] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:52:38,275] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.077 seconds
+[2022-06-09 19:53:10,681] {processor.py:153} INFO - Started process (PID=38006) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:53:10,682] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:53:10,684] {logging_mixin.py:115} INFO - [2022-06-09 19:53:10,684] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:53:10,706] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:53:10,786] {logging_mixin.py:115} INFO - [2022-06-09 19:53:10,786] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:53:10,807] {logging_mixin.py:115} INFO - [2022-06-09 19:53:10,807] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:53:10,826] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.149 seconds
+[2022-06-09 19:53:43,064] {processor.py:153} INFO - Started process (PID=38131) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:53:43,065] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:53:43,065] {logging_mixin.py:115} INFO - [2022-06-09 19:53:43,065] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:53:43,076] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:53:43,101] {logging_mixin.py:115} INFO - [2022-06-09 19:53:43,101] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:53:43,122] {logging_mixin.py:115} INFO - [2022-06-09 19:53:43,121] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:53:43,142] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.082 seconds
+[2022-06-09 19:54:14,925] {processor.py:153} INFO - Started process (PID=38258) to work on /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:54:14,926] {processor.py:641} INFO - Processing file /home/roshan/airflow/dags/user_processing.py for tasks to queue
+[2022-06-09 19:54:14,927] {logging_mixin.py:115} INFO - [2022-06-09 19:54:14,927] {dagbag.py:507} INFO - Filling up the DagBag from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:54:14,950] {processor.py:651} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /home/roshan/airflow/dags/user_processing.py
+[2022-06-09 19:54:14,987] {logging_mixin.py:115} INFO - [2022-06-09 19:54:14,987] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-09 19:54:15,020] {logging_mixin.py:115} INFO - [2022-06-09 19:54:15,020] {dag.py:2915} INFO - Setting next_dagrun for user_processing to 2022-06-08T00:00:00+00:00, run_after=2022-06-09T00:00:00+00:00
+[2022-06-09 19:54:15,064] {processor.py:161} INFO - Processing /home/roshan/airflow/dags/user_processing.py took 0.144 seconds
